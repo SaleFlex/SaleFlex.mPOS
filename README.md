@@ -30,9 +30,12 @@ SaleFlex.mPOS is built for:
 
 ## Community Edition
 
-SaleFlex.mPOS is fully **open source** under the [GNU Affero General Public License v3.0 (AGPLv3)](LICENSE).
+> **Looking for a free, open-source POS terminal?**
+> Check out **[SaleFlex.PyPOS](https://github.com/SaleFlex/SaleFlex.PyPOS)** - a fully free and open-source touch POS built with Python and PySide6, available under AGPLv3 at no cost.
 
-The Community Edition includes everything you need to get started:
+SaleFlex.mPOS is an **Android mobile POS** application. While the source code is published under the [GNU Affero General Public License v3.0 (AGPLv3)](LICENSE), **ready-to-use builds and commercial deployment support are available as a paid product**. Please contact us for pricing and licensing options.
+
+The codebase includes:
 
 - Touch-optimised POS interface for Android tablets (landscape-first)
 - Cashier login with secure password verification
@@ -42,9 +45,6 @@ The Community Edition includes everything you need to get started:
 - Local offline database (Room/SQLite)
 - SaleFlex.OFFICE integration for data sync and transaction push
 - Offline outbox - failed pushes are queued and retried automatically
-- Self-hosted - your data stays with you
-
-Anyone can clone, build, and modify SaleFlex.mPOS for their own needs. Contributions are welcome.
 
 ---
 
